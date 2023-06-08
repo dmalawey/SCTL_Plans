@@ -1,3 +1,5 @@
+# SCUTTLE Needs
+
 ## SCTL Needs DRAFT
 
 Begun 2023.06 <br>
@@ -10,12 +12,16 @@ Author: D Malawey
 ## Contents
 * [big battery project](
 
+### Subcategory of Contents
 
 ## Big battery project <a name="bigBattery"></a>
 > block of code <br>
 > continue from here
 
+### Subcategory of Battery Project
 
 ## Documentation Projects <a name="bigBattery"></a>
 > block of code <br>
 > continue from here
+
+### Subcategory of Docs Project
